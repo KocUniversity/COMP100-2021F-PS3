@@ -9,7 +9,6 @@ accepted_words = {"node":3,"sun":2, "gone":4, "fondue":6, "hit":1,"car":2, "god"
 p2_part1 = None
 p2_part2 = None
 p2_part3 = None
-print(p2_part1)
 print(p2_part2)
 print(p2_part3)
 

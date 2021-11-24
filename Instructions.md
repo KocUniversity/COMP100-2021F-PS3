@@ -102,11 +102,14 @@ we can only generate the word `"bb"` in accepted_words dictionary. Then, your fu
 ## Problem 3: Binary Palindromes
 
 Palindromes are sequence of characters that are identical forward and backward.  
-In this problem, you are given an integer `length` and you are expected to return all possible binary palindromes that have length `length`. You should use recursion. The order of your list is not important.
+In this problem, you are given an integer `length` and you are expected to return all possible binary palindromes that have length `length`. You should use recursion. In this case, the order of your list is important, do not change the print statement.
 
 **Example:** 
-Given `length=3`, your function should return 
+Given `length=3`, your output should be
 ```
-["000", "010", "101", "111"]
+000
+010
+101
+111
 ```
 

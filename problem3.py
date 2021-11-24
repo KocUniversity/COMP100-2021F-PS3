@@ -6,7 +6,7 @@ length = int(input().strip())
 ##################################
 
 result_list = None
-print(result_list)
+print("\n".join(sorted(result_list)))
 
 # Test cases
 # Uncomment one with respect to your input to check your implementation
