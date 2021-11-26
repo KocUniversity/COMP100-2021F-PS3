@@ -21,7 +21,7 @@ At iteration 10, we have 2+2=4 at index 0 (9+1).
 
 The resulting encrypted number should be:
 ```
-46097962534
+4609796253
 ```
 Notice that both the encryption and shifting positions work in a circular manner. That is, for encryption, if the result of addition by 2 is bigger or equal to 10, we simply take the last digit, which is 0. Similarly, for shifting, the number at the last index of input gets shifted by 1, so it ends up at the first index.    
 
